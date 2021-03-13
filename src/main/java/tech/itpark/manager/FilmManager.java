@@ -10,5 +10,4 @@ public class FilmManager {
     public void add(Film film) {
         films.add(film);
     }
-
 }

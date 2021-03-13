@@ -9,9 +9,9 @@ public class Film {
     private long id;
     private String url;
     private String image;
-    private String filmName;
+    private String name;
     private double rating;
-    private boolean like;
+    private boolean liked;
     private String availabilityTicket;
     private long date;
 }
