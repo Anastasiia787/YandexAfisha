@@ -37,7 +37,7 @@ public class Main {
                 7.3,
                 false,
                 "Есть билеты",
-                9);
+                10);
         manager.add(filmThree);
     }
 }
